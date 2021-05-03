@@ -1,4 +1,4 @@
-# E-Commerce Node.js Backend API
+# E-Beatie Node.js Backend API
 
 [TOC]
 

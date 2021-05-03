@@ -1,8 +1,5 @@
 # E-Beatie Node.js Backend API
 
-## Introduction
-This repository is the code representation for the udemy course "MERN Stack E-Commerce Mobile App: React Native, Redux, Expo"
-
 ## Run
 
 ### Configure Database Connection String
